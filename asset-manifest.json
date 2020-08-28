@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tv-series-app/static/css/main.c4556be0.chunk.css",
+    "main.js": "/tv-series-app/static/js/main.6ed8bebe.chunk.js",
+    "main.js.map": "/tv-series-app/static/js/main.6ed8bebe.chunk.js.map",
+    "runtime-main.js": "/tv-series-app/static/js/runtime-main.8201dd3d.js",
+    "runtime-main.js.map": "/tv-series-app/static/js/runtime-main.8201dd3d.js.map",
+    "static/js/2.480e2f36.chunk.js": "/tv-series-app/static/js/2.480e2f36.chunk.js",
+    "static/js/2.480e2f36.chunk.js.map": "/tv-series-app/static/js/2.480e2f36.chunk.js.map",
+    "index.html": "/tv-series-app/index.html",
+    "precache-manifest.6fbc724b00356ae6dd78dd6ad80bd02e.js": "/tv-series-app/precache-manifest.6fbc724b00356ae6dd78dd6ad80bd02e.js",
+    "service-worker.js": "/tv-series-app/service-worker.js",
+    "static/css/main.c4556be0.chunk.css.map": "/tv-series-app/static/css/main.c4556be0.chunk.css.map",
+    "static/js/2.480e2f36.chunk.js.LICENSE.txt": "/tv-series-app/static/js/2.480e2f36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8201dd3d.js",
+    "static/js/2.480e2f36.chunk.js",
+    "static/css/main.c4556be0.chunk.css",
+    "static/js/main.6ed8bebe.chunk.js"
+  ]
+}
